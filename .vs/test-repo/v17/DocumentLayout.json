@@ -33,8 +33,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -43,7 +47,7 @@
               "RelativeDocumentMoniker": "tests.h",
               "ToolTip": "C:\\Users\\qweas\\source\\repos\\test-repo\\tests.h",
               "RelativeToolTip": "tests.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAMAAAA",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAFAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-09T16:19:35.428Z",
               "EditorCaption": ""
@@ -69,7 +73,7 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\qweas\\source\\repos\\test-repo\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-09T15:24:12.885Z",
               "EditorCaption": ""
@@ -95,7 +99,7 @@
               "RelativeDocumentMoniker": "candle.cpp",
               "ToolTip": "C:\\Users\\qweas\\source\\repos\\test-repo\\candle.cpp",
               "RelativeToolTip": "candle.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-08T23:02:49.571Z",
               "EditorCaption": ""
@@ -108,10 +112,6 @@
               "ToolTip": "\u0421\u0442\u0440\u0430\u043D\u0438\u0446\u044B \u043E\u0431\u0437\u043E\u0440\u0430 CMake",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-12-08T23:01:00.613Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
