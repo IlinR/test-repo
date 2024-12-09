@@ -7,7 +7,6 @@
 //массив всех тестов, который мы заполняем в функции initTests
 static std::vector<std::function<bool()>> tests;
 
-//тест 1
 
 
 void initTests()
@@ -15,6 +14,9 @@ void initTests()
   tests.push_back(test_body_contains_insideCandle);
   tests.push_back(test_body_contains_outsideCandle);
   tests.push_back(test_body_contains_onEdges);
+  tests.push_back(test_contains_insideBody);
+  tests.push_back(test_contains_insideShadow);
+  tests.push_back(test_contains_outsideCandle);
 }
 
 int launchTests()
